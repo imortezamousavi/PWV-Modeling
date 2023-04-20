@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/398018212.svg)](https://zenodo.org/badge/latestdoi/398018212)
+[![DOI](https://zenodo.org/badge/398018212.svg)](https://doi.org/10.5194/isprs-annals-X-4-W1-2022-307-2023)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12LJqlZNBUmvLlRl98rRFCbKveVPg9Ami?usp=sharing)
 
 # PWV-Modeling
