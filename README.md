@@ -9,5 +9,6 @@ Atmospheric water vapor plays a vital role in phenomena related to the global hy
 The Plate Boundary Observatory (PBO) network stations were launched in 2008 for 3D strain monitoring in North America and Alaska and have since been developed. Some stations in this network have a high rate of observations (1 and 2 seconds). The stations of this network have been used in this study. The studied area is located between the longitudes of -118.6 to -117.6 degrees and the latitudes from 34.4 to 35.4 degrees.
 
 <img src="https://user-images.githubusercontent.com/7342379/194891967-be2b56b5-c30c-4040-8ef8-39b448ce2390.jpg" width="40%" />
+
 ## Methods
 ## Results
